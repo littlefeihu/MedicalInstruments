@@ -1,0 +1,4 @@
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Service\bin\Debug\MedicalInstruments.Service.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Service\bin\Debug\MedicalInstruments.Service.pdb
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Service\obj\Debug\MedicalInstruments.Service.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Service\obj\Debug\MedicalInstruments.Service.pdb

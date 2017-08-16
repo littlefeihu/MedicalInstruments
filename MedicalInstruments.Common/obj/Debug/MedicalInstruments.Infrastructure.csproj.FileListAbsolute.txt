@@ -1,0 +1,11 @@
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\MedicalInstruments.Infrastructure.dll.config
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\MedicalInstruments.Infrastructure.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\MedicalInstruments.Infrastructure.pdb
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\EntityFramework.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\log4net.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\EntityFramework.xml
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\log4net.xml
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\obj\Debug\MedicalInstruments.Infrastructure.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\obj\Debug\MedicalInstruments.Infrastructure.pdb

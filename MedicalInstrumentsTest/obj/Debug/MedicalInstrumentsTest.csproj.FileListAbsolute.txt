@@ -1,0 +1,15 @@
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\MedicalInstrumentsTest.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\MedicalInstrumentsTest.pdb
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\MedicalInstruments.Infrastructure.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\MedicalInstruments.Model.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\Newtonsoft.Json.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\EntityFramework.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\log4net.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\MedicalInstruments.Infrastructure.pdb
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\MedicalInstruments.Model.pdb
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\Newtonsoft.Json.xml
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\EntityFramework.xml
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\bin\Debug\log4net.xml
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\obj\Debug\MedicalInstrumentsTest.csprojResolveAssemblyReference.cache
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\obj\Debug\MedicalInstrumentsTest.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstrumentsTest\obj\Debug\MedicalInstrumentsTest.pdb

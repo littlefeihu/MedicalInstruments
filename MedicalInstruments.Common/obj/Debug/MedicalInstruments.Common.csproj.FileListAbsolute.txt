@@ -1,0 +1,6 @@
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\MedicalInstruments.Common.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\MedicalInstruments.Common.pdb
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\obj\Debug\MedicalInstruments.Common.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\obj\Debug\MedicalInstruments.Common.pdb
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\log4net.dll
+E:\工作\phamacy2016\MedicalInstruments\MedicalInstruments.Common\bin\Debug\log4net.xml
